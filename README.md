@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit-prog&label=Profile%20views&color=0e75b6&style=flat" alt="sujit-prog" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujit-prog" alt="sujit-prog" /></a> </p>
-
 - 📫 How to reach me **10sujitkumarsha@gmail.com**
 
 - 📄 Know about my experiences [https://sujit-1010.tiiny.site/](https://sujit-1010.tiiny.site/)
@@ -26,10 +24,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-prog&" alt="sujit-prog" /></p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph.svg">
-</picture>
+## My Contribution Graph
 
-###
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
