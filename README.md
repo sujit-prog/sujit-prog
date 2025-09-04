@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **10sujitkumarsha@gmail.com**
 
-- 📄 Know about my experiences [https://sujit-1010.tiiny.site/](https://sujit-1010.tiiny.site/)
+- 📄 Know about my experiences [My Portfolio](https://sujitkumarshaportfolio.framer.website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
