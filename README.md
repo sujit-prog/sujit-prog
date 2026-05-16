@@ -1,33 +1,188 @@
-<h1 align="center">Hi 👋, I'm sUjIt</h1>
-<h3 align="center">Developer Tester Learner and lot more 😎</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujit+Kumar+Sha;Developer+%7C+Builder+%7C+Learner;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit-prog&label=Profile%20views&color=0e75b6&style=flat" alt="sujit-prog" /> </p>
-
-- 📫 How to reach me **10sujitkumarsha@gmail.com**
-
-- 📄 Know about my experiences [My Portfolio](https://sujit-ks.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sujit-kumar-sha-3b319322a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit-kumar-sha-3b319322a" height="30" width="40" /></a>
-<a href="https://kaggle.com/sujitkumarsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sujitkumarsha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suujiiiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suujiiiit" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujit-prog&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="profile views" />
+  <a href="https://sujit-ks.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:10sujitkumarsha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/sujit-kumar-sha-3b319322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-prog&show_icons=true&locale=en&layout=compact" alt="sujit-prog" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujit-prog&show_icons=true&locale=en" alt="sujit-prog" /></p>
+I'm a **full-stack developer** focused on building real-world applications that solve genuine problems. My projects span AI-powered web apps, fintech, safety tech, and developer tooling — with a bias for shipping and learning by doing.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-prog&" alt="sujit-prog" /></p>
+- 🔭 Currently building **AI-era web applications** — RAG systems, intelligent dashboards, and safety platforms
+- 🌱 Deepening expertise in **Next.js**, **FastAPI**, **LangChain**, and **vector databases**
+- 🤖 Interested in the intersection of **AI + real-world impact** — fraud detection, public safety, accessible education
+- 🧪 I believe in testing, clean architecture, and actually deploying things
+- 🏗️ 29 public repositories — from experiments to production-deployed apps
+- 📫 Reach me at **10sujitkumarsha@gmail.com**
+- 🌐 Portfolio: [sujit-ks.vercel.app](https://sujit-ks.vercel.app/)
 
+---
 
-## My Contribution Graph
+## 🚀 Featured Projects
+
+### 🛡️ [SAfe_T — AI-Powered Urban Safety Companion](https://github.com/sujit-prog/Safe_T)
+> *Real-time safety intelligence for students and women navigating unfamiliar areas in Odisha, India*
+
+A full-stack safety platform combining historical police incident data, crowd-sourced community alerts, and geospatial analysis to compute a **Live Safety Pulse** score for any location.
+
+**Key Features:**
+- 🗺️ Intelligent route planner with 3 alternatives (Safest / Fastest / Balanced) — each segment color-coded in real time using a custom Haversine + bounding-box algorithm
+- 🚨 One-tap SOS system with nearest Safe Anchors, emergency dial shortcuts, and live GPS trip sync
+- 🔔 Proactive alert engine with a night-time risk multiplier and inactivity SOS countdown
+- 👥 Guardian Peer Alert system where verified community reporters carry higher signal weight
+
+**Stack:** `Next.js 16` · `React 19` · `TypeScript` · `Prisma 5` · `PostgreSQL (Supabase)` · `Tailwind CSS v4` · `Leaflet / OSRM` · `Framer Motion`
+
+🔗 **Live:** [safe-t-one.vercel.app](https://safe-t-one.vercel.app)
+
+---
+
+### 📚 [Acadvault — Online Assessment Portal](https://github.com/sujit-prog/Assessment_Portal)
+> *A full-featured quiz and exam management system with academic integrity monitoring*
+
+A production-deployed Django web app for teachers to create/manage assessments and students to take them — with a **secure exam mode** that actively deters cheating.
+
+**Key Features:**
+- 🔒 Secure exam mode: fullscreen enforcement, tab-switch detection, auto-submit countdown on exit
+- 📊 Personalized student dashboard with score trends, averages, and performance by subject
+- 🚩 Automatic flagging of suspicious attempts (>3 tab switches or >2 fullscreen exits)
+- 📤 CSV export of filtered results for teachers
+- 🌗 System-aware dark mode
+
+**Stack:** `Python 3.12` · `Django 5` · `PostgreSQL (Supabase)` · `Tailwind CSS` · `Vercel`
+
+🔗 **Live:** [assessmentportal-seven.vercel.app](https://assessmentportal-seven.vercel.app)
+
+---
+
+### 💳 [Smart UPI Fraud Detection](https://github.com/sujit-prog/smart_upi_fraud_detection)
+> *ML-powered fraud detection system for UPI transactions with a React Native mobile companion*
+
+An end-to-end fraud detection pipeline with a Python ML backend, a web frontend, and a mobile app — all deployable via Docker.
+
+**Key Features:**
+- 🧠 ML model trained on UPI transaction patterns for real-time risk scoring
+- 📱 React Native mobile app for on-the-go transaction checks
+- 🐳 Docker Compose setup for easy local and production deployment
+- 📓 Jupyter notebooks documenting the model training and risk assessment process
+
+**Stack:** `Python` · `FastAPI / Django` · `React Native` · `Jupyter` · `Docker` · `TypeScript`
+
+🔗 **Live:** [smart-upi-fraud-detection.vercel.app](https://smart-upi-fraud-detection.vercel.app)
+
+---
+
+### 🌐 [Personal Portfolio](https://github.com/sujit-prog/sujit_ks)
+> *My developer portfolio — built with JavaScript*
+
+🔗 **Live:** [sujit-ks.vercel.app](https://sujit-ks.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+
+### Databases & ORMs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujit-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-prog&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujit-prog&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sujit-kumar-sha-3b319322a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/sujitkumarsha" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/suujiiiit" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:10sujitkumarsha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30" />
+  </a>
+</p>
+
+---
+
+## 🌊 My Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/sujit-prog/sujit-prog/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<p align="center">
+  <i>"Ship it. Learn from it. Build again."</i>
+</p>
