@@ -99,7 +99,7 @@ An end-to-end fraud detection pipeline with a Python ML backend, a web frontend,
 
 ---
 
-### 🤖 Chat with Your Docs — RAG Application
+### 🤖 Chat with Your Docs
 > *Ask any question about your documents and get AI-powered answers grounded in the actual content*
 
 A fully functional **Retrieval-Augmented Generation (RAG)** pipeline built end-to-end — from chunking and embedding documents to answering natural language queries with cited context. Deployed on Hugging Face Spaces with a Gradio UI.
