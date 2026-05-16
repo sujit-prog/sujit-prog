@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **full-stack developer** focused on building real-world applications that solve genuine problems. My projects span AI-powered web apps, fintech, safety tech, and developer tooling — with a bias for shipping and learning by doing.
+I'm a **full-stack developer** focused on building real-world applications that solve genuine problems. My projects span AI-powered web apps, fintech, safety tech, and healthcare — with a bias for shipping and learning by doing.
 
 - 🔭 Currently building **AI-era web applications** — RAG systems, intelligent dashboards, and safety platforms
 - 🌱 Deepening expertise in **Next.js**, **FastAPI**, **LangChain**, and **vector databases**
@@ -22,6 +22,26 @@ I'm a **full-stack developer** focused on building real-world applications that 
 - 🏗️ 29 public repositories — from experiments to production-deployed apps
 - 📫 Reach me at **10sujitkumarsha@gmail.com**
 - 🌐 Portfolio: [sujit-ks.vercel.app](https://sujit-ks.vercel.app/)
+
+---
+
+## 🔗 All Deployed Projects
+
+<details>
+<summary><b>📦 Click to expand — live deployment links for all projects</b></summary>
+
+<br/>
+
+| # | Project | Description | Live Link |
+|---|---------|-------------|-----------|
+| 1 | 🛡️ **SAfe_T** | AI-powered urban safety companion | [safe-t-one.vercel.app](https://safe-t-one.vercel.app) |
+| 2 | 📚 **Acadvault** | Online assessment portal with secure exam mode | [assessmentportal-seven.vercel.app](https://assessmentportal-seven.vercel.app) |
+| 3 | 💳 **Smart UPI Fraud Detection** | ML-based UPI transaction fraud detector | [smart-upi-fraud-detection.vercel.app](https://smart-upi-fraud-detection.vercel.app) |
+| 4 | 🤖 **Chat with Your Docs (RAG)** | Document Q&A powered by LangChain + Groq | [huggingface.co/spaces/sks10](https://huggingface.co/spaces/sks10) |
+| 5 | 🏥 **MediVault** | Secure digital health record management system | [sujit-ks.vercel.app](https://sujit-ks.vercel.app) |
+| 6 | 🌐 **Portfolio** | Personal developer portfolio | [sujit-ks.vercel.app](https://sujit-ks.vercel.app/) |
+
+</details>
 
 ---
 
@@ -79,10 +99,39 @@ An end-to-end fraud detection pipeline with a Python ML backend, a web frontend,
 
 ---
 
-### 🌐 [Personal Portfolio](https://github.com/sujit-prog/sujit_ks)
-> *My developer portfolio — built with JavaScript*
+### 🤖 Chat with Your Docs — RAG Application
+> *Ask any question about your documents and get AI-powered answers grounded in the actual content*
 
-🔗 **Live:** [sujit-ks.vercel.app](https://sujit-ks.vercel.app/)
+A fully functional **Retrieval-Augmented Generation (RAG)** pipeline built end-to-end — from chunking and embedding documents to answering natural language queries with cited context. Deployed on Hugging Face Spaces with a Gradio UI.
+
+**Key Features:**
+- 📄 Upload any PDF and instantly query it in plain conversational language
+- 🔍 Semantic search via **ChromaDB** vector store and **HuggingFace embeddings** (`all-MiniLM-L6-v2`)
+- ⚡ LLM responses powered by **Groq API** with **Llama 3.3 70B** — fast, grounded answers
+- 🔗 **LangChain** orchestration for the retrieval chain, document loading, and conversational memory
+- 🚀 Deployed on Hugging Face Spaces with a clean Gradio interface
+
+**Stack:** `Python` · `LangChain` · `ChromaDB` · `HuggingFace Embeddings` · `Groq API (Llama 3.3 70B)` · `Gradio` · `Hugging Face Spaces`
+
+🔗 **Live:** [huggingface.co/spaces/sks10](https://huggingface.co/spaces/sks10)
+
+---
+
+### 🏥 [MediVault — Secure Digital Health Record System](https://github.com/sujit-prog/Medivault)
+> *A privacy-first platform for managing and sharing electronic health records*
+
+MediVault is a secure full-stack health records management system designed for patients and healthcare providers. It enables structured medical record storage, encrypted access control, and role-based sharing between patients and doctors.
+
+**Key Features:**
+- 🔐 End-to-end encryption for all sensitive patient health data
+- 🗂️ Structured medical record lifecycle — create, update, share, and audit records
+- 👨‍⚕️ Separate patient and doctor dashboards with role-based access control
+- 🛡️ Privacy-first architecture — patients retain full control over who accesses their data
+- 📋 Appointment scheduling and prescription management
+
+**Stack:** `React` · `Node.js` · `REST APIs` · `PostgreSQL` · `Tailwind CSS` · `Vercel`
+
+🔗 **Live:** [https://medivault-zeta.vercel.app/](https://medivault-zeta.vercel.app/)
 
 ---
 
