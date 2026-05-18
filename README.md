@@ -34,15 +34,15 @@ I'm a **full-stack developer** focused on building real-world applications that 
 
 | # | Project | Description | Live Link |
 |---|---------|-------------|-----------|
-| 1 | 🛡️ **SAfe_T** | AI-powered urban safety companion | [safe-t-one.vercel.app](https://safe-t-one.vercel.app) |
-| 2 | 📚 **Acadvault** | Online assessment portal with secure exam mode | [assessmentportal-seven.vercel.app](https://assessmentportal-seven.vercel.app) |
-| 3 | 💳 **Smart UPI Fraud Detection** | ML-based UPI transaction fraud detector | [smart-upi-fraud-detection.vercel.app](https://smart-upi-fraud-detection.vercel.app) |
-| 4 | 🤖 **Chat with Your Docs (RAG)** | Document Q&A powered by LangChain + Groq | [huggingface.co/spaces/sks10](https://huggingface.co/spaces/sks10) |
-| 5 | 🏥 **MediVault** | Secure digital health record management system | [medivault-zeta.vercel.app](https://medivault-zeta.vercel.app/) |
-| 6 | 🌐 **Portfolio** | Personal developer portfolio | [sujit-ks.vercel.app](https://sujit-ks.vercel.app/) |
-| 7 |     **NewsHere** | Your Daily Dose of news  |[newshere.vercel.app](https://newshere.vercel.app/)
+| 1 |  **SAfe_T** | AI-powered urban safety companion | [safe-t-one.vercel.app](https://safe-t-one.vercel.app) |
+| 2 |  **Acadvault** | Online assessment portal with secure exam mode | [assessmentportal-seven.vercel.app](https://assessmentportal-seven.vercel.app) |
+| 3 |  **Smart UPI Fraud Detection** | ML-based UPI transaction fraud detector | [smart-upi-fraud-detection.vercel.app](https://smart-upi-fraud-detection.vercel.app) |
+| 4 |  **Chat with Your Docs (RAG)** | Document Q&A powered by LangChain + Groq | [huggingface.co/spaces/sks10](https://huggingface.co/spaces/sks10) |
+| 5 |  **MediVault** | Secure digital health record management system | [medivault-zeta.vercel.app](https://medivault-zeta.vercel.app/) |
+| 6 |  **Portfolio** | Personal developer portfolio | [sujit-ks.vercel.app](https://sujit-ks.vercel.app/) |
+| 7 |  **NewsHere** | Your Daily Dose of news  |[newshere.vercel.app](https://newshere.vercel.app/)
 | 8 |  **Id_Assets** |provides a unified view of user access rights, permissions, and device links across your digital ecosystem |[id-assets.vercel.app](https://id-assets.vercel.app/)
-| 9 |  **Smart_Calendar| Not Your regular Calendar |[calendar-sand-one.vercel.app](https://calendar-sand-one.vercel.app/)
+| 9 |  **Smart_Calendar**| Not Your regular Calendar |[calendar-sand-one.vercel.app](https://calendar-sand-one.vercel.app/)
 
 </details>
 
