@@ -42,6 +42,7 @@ I'm a **full-stack developer** focused on building real-world applications that 
 | 6 | 🌐 **Portfolio** | Personal developer portfolio | [sujit-ks.vercel.app](https://sujit-ks.vercel.app/) |
 | 7 |     **NewsHere** | Your Daily Dose of news  |[newshere.vercel.app](https://newshere.vercel.app/)
 | 8 |  **Id_Assets** |provides a unified view of user access rights, permissions, and device links across your digital ecosystem |[id-assets.vercel.app](https://id-assets.vercel.app/)
+| 9 |  **Smart_Calendar| Not Your regular Calendar |[calendar-sand-one.vercel.app](https://calendar-sand-one.vercel.app/)
 
 </details>
 
