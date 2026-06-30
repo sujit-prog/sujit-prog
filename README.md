@@ -132,7 +132,7 @@ MediVault is a secure full-stack health records management system designed for p
 - 🛡️ Privacy-first architecture — patients retain full control over who accesses their data
 - 📋 Appointment scheduling and prescription management
 
-**Stack:** `React` · `Node.js` · `REST APIs` · `PostgreSQL` · `Tailwind CSS` · `Vercel`
+**Stack:** `React` · `SpringBoot` · `REST APIs` · `PostgreSQL`  · `Vercel`
 
 🔗 **Live:** [https://medivault-zeta.vercel.app/](https://medivault-zeta.vercel.app/)
 
